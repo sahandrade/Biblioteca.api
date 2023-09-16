@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/mack-biblioteca-api.war
+web: java -jar target/mack-biblioteca-api.war
